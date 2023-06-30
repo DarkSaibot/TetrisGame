@@ -1,5 +1,5 @@
-# TetrisGame
+# Tetris
 A fully functional TETRIS game made in Python by me.
 <br>
 <br>
-![Screenshot_1](https://github.com/DarkSaibot/CustomClock/assets/86971123/601adfa5-98dc-4af7-8c77-e321be8e9cba)
+![Screenshot_2](https://github.com/DarkSaibot/TetrisGame/assets/86971123/4bbf0eef-ba76-4b63-9e2b-12b3d43c8817)
